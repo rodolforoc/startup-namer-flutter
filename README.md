@@ -18,8 +18,6 @@ Projeto feito pelo tutorial Flutter disponível em https://flutter.dev/docs/get-
 
 ### Funcionalidades da aplicação
 
-funcionalidades do Startup Namer:
-
 * Combinar dois palavras aleatórios para gerar um nome de Startup.
 * Listar nomes de Startups gerados.
 * Dar Like em nomes favoritos.
